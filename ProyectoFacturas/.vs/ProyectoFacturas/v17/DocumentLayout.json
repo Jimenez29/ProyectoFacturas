@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dorya\\OneDrive\\Escritorio\\ProyectoFacturas\\ProyectoFacturas\\ProyectoFacturas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{855A2B3D-EAD8-4F80-8FB4-41E56C9D6A78}|ProyectoFacturas\\ProyectoFacturas.csproj|c:\\users\\dorya\\onedrive\\escritorio\\proyectofacturas\\proyectofacturas\\proyectofacturas\\proyectofacturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855A2B3D-EAD8-4F80-8FB4-41E56C9D6A78}|ProyectoFacturas\\ProyectoFacturas.csproj|solutionrelative:proyectofacturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dorya\\OneDrive\\Escritorio\\ProyectoFacturas\\ProyectoFacturas\\ProyectoFacturas\\ProyectoFacturas\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFacturas\\Program.cs",
+              "ToolTip": "C:\\Users\\dorya\\OneDrive\\Escritorio\\ProyectoFacturas\\ProyectoFacturas\\ProyectoFacturas\\ProyectoFacturas\\Program.cs",
+              "RelativeToolTip": "ProyectoFacturas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:39:50.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
