@@ -1,0 +1,2 @@
+C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.AssemblyReference.cache
+C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
