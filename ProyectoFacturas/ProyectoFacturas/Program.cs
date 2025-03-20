@@ -5,7 +5,7 @@ namespace ProyectoFacturas
 {
     public class Program
     {
-        static string connString = @"Data Source=DESKTOP-4KMBN5C\SQLEXPRESS;Initial Catalog=SistemaFacturas;Integrated Security=True";
+       public static string connString = @"Data Source=DESKTOP-4KMBN5C\SQLEXPRESS;Initial Catalog=SistemaFacturas;Integrated Security=True";
 
         public static void Main(string[] args)
         {

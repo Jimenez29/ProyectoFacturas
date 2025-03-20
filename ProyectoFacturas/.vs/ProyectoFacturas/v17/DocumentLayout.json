@@ -18,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
               "$type": "Document",
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "PruebasProyecto\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\dorya\\OneDrive\\Escritorio\\ProyectoFacturas\\ProyectoFacturas\\ProyectoFacturas\\PruebasProyecto\\UnitTest1.cs",
               "RelativeToolTip": "PruebasProyecto\\UnitTest1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAuwLAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T04:00:45.172Z",
               "EditorCaption": ""
@@ -49,7 +45,7 @@
               "RelativeDocumentMoniker": "ProyectoFacturas\\Program.cs",
               "ToolTip": "C:\\Users\\dorya\\OneDrive\\Escritorio\\ProyectoFacturas\\ProyectoFacturas\\ProyectoFacturas\\ProyectoFacturas\\Program.cs",
               "RelativeToolTip": "ProyectoFacturas\\Program.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAIwOcAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAhwNgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T04:39:50.514Z",
               "EditorCaption": ""

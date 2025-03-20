@@ -1,7 +1,7 @@
+C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\bin\Debug\ProyectoFacturas.exe.config
+C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\bin\Debug\ProyectoFacturas.exe
 C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\bin\Debug\ProyectoFacturas.pdb
 C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\obj\Debug\ProyectoFacturas.csproj.AssemblyReference.cache
 C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\obj\Debug\ProyectoFacturas.csproj.CoreCompileInputs.cache
-C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\obj\Debug\ProyectoFacturas.pdb
-C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\bin\Debug\ProyectoFacturas.exe.config
-C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\bin\Debug\ProyectoFacturas.exe
 C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\obj\Debug\ProyectoFacturas.exe
+C:\Users\dorya\OneDrive\Escritorio\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\ProyectoFacturas\obj\Debug\ProyectoFacturas.pdb
